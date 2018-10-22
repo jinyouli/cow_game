@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cowlist.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cow1_1": {
+      "__uuid__": "697bbeb2-a927-466a-9c79-2fda746f9560"
+    },
+    "cow1_2": {
+      "__uuid__": "99bd09fb-dc6a-4d3e-9d01-6bb9f3eb4745"
+    },
+    "cow1_3": {
+      "__uuid__": "9d79d343-58aa-49c8-a919-b7cdaa85612b"
+    },
+    "cow2_1": {
+      "__uuid__": "77e02563-0194-410f-88b8-fd37d0352810"
+    },
+    "cow2_2": {
+      "__uuid__": "8e81db4e-2efe-4a12-8dc9-e3e41e7440b3"
+    },
+    "cow2_3": {
+      "__uuid__": "bfd0c73c-64c3-4df9-b032-f1ce0de4fb3a"
+    },
+    "cow3_1": {
+      "__uuid__": "c979566f-6eb9-4b13-b8c9-befc2e17f7a3"
+    },
+    "cow3_2": {
+      "__uuid__": "d04f46bd-462f-45e7-b97d-79f053354cae"
+    },
+    "cow3_3": {
+      "__uuid__": "17993cbf-8d7b-47b8-bc4d-bcce0adb98f0"
+    }
+  }
+}

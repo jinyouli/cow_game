@@ -1,0 +1,55 @@
+2018-10-22T01:17:42.496Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-22T01:17:42.501Z - normal: checking language setting...
+2018-10-22T01:17:42.502Z - normal: Language: zh
+2018-10-22T01:17:47.816Z - success: protocol editor-framework registered
+2018-10-22T01:17:47.816Z - success: protocol app registered
+2018-10-22T01:17:47.816Z - success: protocol theme registered
+2018-10-22T01:17:47.817Z - success: protocol packages registered
+2018-10-22T01:17:47.818Z - success: protocol unpack registerred
+2018-10-22T01:17:47.819Z - success: protocol disable-commonjs registerred
+2018-10-22T01:17:48.097Z - normal: connected!
+2018-10-22T01:17:48.099Z - normal: Check project /Users/lijinyou/myWork/cow_game
+2018-10-22T01:17:48.101Z - normal: Initializing Cocos2d
+2018-10-22T01:17:49.968Z - normal: Initializing Asset Database
+2018-10-22T01:17:50.085Z - success: protocol uuid registerred
+2018-10-22T01:17:50.086Z - success: protocol db registerred
+2018-10-22T01:17:50.086Z - success: protocol thumbnail registerred
+2018-10-22T01:17:50.086Z - normal: Loading editor/builtin packages
+2018-10-22T01:17:50.176Z - success: anysdk loaded
+2018-10-22T01:17:50.405Z - success: assets loaded
+2018-10-22T01:17:50.417Z - success: builder loaded
+2018-10-22T01:17:50.421Z - success: cocos-analytics loaded
+2018-10-22T01:17:50.431Z - success: console loaded
+2018-10-22T01:17:50.482Z - success: fb-instant-games loaded
+2018-10-22T01:17:50.488Z - success: hierarchy loaded
+2018-10-22T01:17:50.496Z - success: inspector loaded
+2018-10-22T01:17:50.511Z - success: keystore loaded
+2018-10-22T01:17:50.518Z - success: node-library loaded
+2018-10-22T01:17:50.521Z - success: package-asset loaded
+2018-10-22T01:17:50.523Z - success: preferences loaded
+2018-10-22T01:17:50.528Z - success: project-exporter loaded
+2018-10-22T01:17:50.553Z - success: project-importer loaded
+2018-10-22T01:17:50.559Z - success: project-settings loaded
+2018-10-22T01:17:50.565Z - success: ui-kit loaded
+2018-10-22T01:17:50.588Z - success: ui-grid loaded
+2018-10-22T01:17:50.595Z - success: scene loaded
+2018-10-22T01:17:50.596Z - success: sprite-editor loaded
+2018-10-22T01:17:50.603Z - success: store loaded
+2018-10-22T01:17:50.615Z - success: timeline loaded
+2018-10-22T01:17:50.615Z - normal: Loading builtin packages
+2018-10-22T01:17:50.630Z - success: asset-db-debugger loaded
+2018-10-22T01:17:50.631Z - success: color-picker loaded
+2018-10-22T01:17:50.637Z - success: package-manager loaded
+2018-10-22T01:17:50.639Z - success: qqplay-adapter loaded
+2018-10-22T01:17:50.648Z - success: sdkbox loaded
+2018-10-22T01:17:50.656Z - success: tester loaded
+2018-10-22T01:17:50.677Z - success: ui-kit-preview-extra loaded
+2018-10-22T01:17:50.697Z - success: ui-kit-preview loaded
+2018-10-22T01:17:50.704Z - success: ui-tree loaded
+2018-10-22T01:17:50.712Z - success: weapp-adapter loaded
+2018-10-22T01:17:52.652Z - normal: Initializing project /Users/lijinyou/myWork/cow_game
+2018-10-22T01:17:52.701Z - normal: Loading packages
+2018-10-22T01:17:52.707Z - normal: Watching packages
+2018-10-22T01:17:52.890Z - normal: Run Application
+2018-10-22T01:17:54.950Z - success: preview server running at http://localhost:7456
+2018-10-22T01:18:06.522Z - normal: 1.9.3
